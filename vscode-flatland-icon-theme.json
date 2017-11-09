@@ -18,5 +18,6 @@
   },
   "folderNames": {
     // folder names here
-  }
+  },
+  "hidesExplorerArrows": true
 }
