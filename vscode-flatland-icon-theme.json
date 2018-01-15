@@ -6,17 +6,25 @@
     "_folder_dark": {
       "iconPath": "./icons/folder-closed@2x.png"
     },
-    "_file_dark":{
+    "_root_folder_open_dark": {
+      "iconPath": "./icons/folder-root-open@2x.png"
+    },
+    "_root_folder_dark": {
+      "iconPath": "./icons/folder-root-closed@2x.png"
+    },
+    "_file_dark": {
       "iconPath": "./icons/file.svg"
     }
   },
+  "hidesExplorerArrows": true,
   "folderExpanded": "_folder_open_dark",
   "folder": "_folder_dark",
+  "rootFolderExpanded": "_root_folder_open_dark",
+  "rootFolder": "_root_folder_dark",
   "fileNames": {
     // file names here
   },
   "folderNames": {
     // folder names here
-  },
-  "hidesExplorerArrows": true
+  }
 }
