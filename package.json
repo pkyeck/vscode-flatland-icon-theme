@@ -1,9 +1,9 @@
 {
-    "name": "vscode-flatland-icon-theme",
-    "displayName": "flatland icon theme",
-    "description": "flatland icons for vscode",
-    "version": "0.0.6",
-    "publisher": "gebilaoxiong",
+    "name": "vscode-flatland-icon-theme-custom",
+    "displayName": "flatland icon theme (custom)",
+    "description": "flatland icons for vscode (custom)",
+    "version": "0.0.7",
+    "publisher": "pkyeck",
     "engines": {
         "vscode": "^1.5.0"
     },
@@ -14,8 +14,8 @@
     "contributes": {
         "iconThemes": [
             {
-                "id": "flatland-icon-theme",
-                "label": "Flatland Icon Theme",
+                "id": "flatland-icon-theme-custom",
+                "label": "Flatland Icon Theme (custom)",
                 "path": "./vscode-flatland-icon-theme.json"
             }
         ]
@@ -28,12 +28,12 @@
         "flatland",
         "flatland-icon"
     ],
-    "homepage": "https://github.com/gebilaoxiong/vscode-flatland-icon-theme/blob/master/README.md",
+    "homepage": "https://github.com/pkyeck/vscode-flatland-icon-theme/blob/master/README.md",
     "repository": {
         "type": "git",
-        "url": "https://github.com/gebilaoxiong/vscode-flatland-icon-theme.git"
+        "url": "https://github.com/pkyeck/vscode-flatland-icon-theme.git"
     },
     "bugs": {
-        "url": "https://github.com/gebilaoxiong/vscode-flatland-icon-theme/issues"
+        "url": "https://github.com/pkyeck/vscode-flatland-icon-theme/issues"
     }
 }
