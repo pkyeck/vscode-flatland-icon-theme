@@ -9,12 +9,12 @@ I customised a couple of things:
 - no spacing in front of files
 - different colors for root/normal folders
 
-[![vsmarketplace](http://vsmarketplacebadge.apphb.com/installs/gebilaoxiong.vscode-flatland-icon-theme.svg)](https://marketplace.visualstudio.com/items?itemName=gebilaoxiong.vscode-flatland-icon-theme)
+[![vsmarketplace](http://vsmarketplacebadge.apphb.com/installs/gebilaoxiong.vscode-flatland-icon-theme.svg)](https://marketplace.visualstudio.com/items?itemName=pkyeck.vscode-flatland-icon-theme-custom)
 
-[![vsmarketplace](http://vsmarketplacebadge.apphb.com/version/gebilaoxiong.vscode-flatland-icon-theme.svg)](https://marketplace.visualstudio.com/items?itemName=gebilaoxiong.vscode-flatland-icon-theme)
+[![vsmarketplace](http://vsmarketplacebadge.apphb.com/version/gebilaoxiong.vscode-flatland-icon-theme.svg)](https://marketplace.visualstudio.com/items?itemName=pkyeck.vscode-flatland-icon-theme-custom)
 
 ## Preview
-![preview](https://github.com/gebilaoxiong/vscode-flatland-icon-theme/blob/master/images/preview.png?raw=true)
+![preview](https://github.com/pkyeck/vscode-flatland-icon-theme/blob/master/images/preview.png?raw=true)
 
 ## Installation
 
